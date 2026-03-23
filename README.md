@@ -84,3 +84,46 @@ B,A,1000
 C,A,2000
 D,A,1500
 ```
+
+---
+
+## ✅ Sample Output
+
+```
+Suspicious Accounts:
+A → Large transaction, Too many transactions
+```
+
+---
+
+## ✨ Features
+
+* Detects suspicious accounts automatically
+* Simple and efficient logic
+* Clean and readable output
+* Easy to modify and extend
+
+---
+
+## 🚀 Future Improvements
+
+* Add more fraud detection rules
+* Build a GUI
+* Use real-time data
+* Save output to a file
+
+---
+
+## 📚 Learning Outcomes
+
+* File handling in Python
+* Working with CSV data
+* Using dictionaries and sets
+* Applying real-world logic
+
+---
+
+## 👤 Author
+
+Debapriya Ghosh
+
