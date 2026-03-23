@@ -1,0 +1,10 @@
+sender,receiver,amount
+A,B,60000
+A,C,70000
+A,D,80000
+A,E,90000
+A,F,100000
+A,G,110000
+B,A,1000
+C,A,2000
+D,A,1500
