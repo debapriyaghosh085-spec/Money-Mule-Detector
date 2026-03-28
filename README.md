@@ -1,8 +1,8 @@
 # Money-Mule-Detector
 A Python project to detect suspicious bank accounts (money mule accounts) using transaction data and simple fraud detection rules.
-# 💳 Money Mule Detection System
+## Money Mule Detection System
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a Python-based system to detect suspicious bank accounts (money mule accounts) using transaction data.
 
@@ -10,7 +10,7 @@ Money mule accounts are used to transfer illegally obtained money. This project 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Analyze transaction data from a CSV file
 * Identify suspicious activities
@@ -18,7 +18,7 @@ Money mule accounts are used to transfer illegally obtained money. This project 
 
 ---
 
-## 🧠 Detection Rules
+##  Detection Rules
 
 1. **Large Transactions**
 
@@ -30,14 +30,14 @@ Money mule accounts are used to transfer illegally obtained money. This project 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * CSV File Handling
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 money-mule-detector/
@@ -48,7 +48,7 @@ money-mule-detector/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -70,7 +70,7 @@ python main.py
 
 ---
 
-## 📊 Sample Input (transactions.csv)
+##  Sample Input (transactions.csv)
 
 ```
 sender,receiver,amount
@@ -87,7 +87,7 @@ D,A,1500
 
 ---
 
-## ✅ Sample Output
+##  Sample Output
 
 ```
 Suspicious Accounts:
@@ -96,7 +96,7 @@ A → Large transaction, Too many transactions
 
 ---
 
-## ✨ Features
+##  Features
 
 * Detects suspicious accounts automatically
 * Simple and efficient logic
@@ -105,7 +105,7 @@ A → Large transaction, Too many transactions
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add more fraud detection rules
 * Build a GUI
@@ -114,7 +114,7 @@ A → Large transaction, Too many transactions
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 * File handling in Python
 * Working with CSV data
