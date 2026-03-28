@@ -1,7 +1,7 @@
 import csv
 
 # Store suspicious accounts with reasons (using set to avoid duplicates)
-suspicious_account = {}
+suspicious_accounts = {}
 sender_count = {}
 
 # Read CSV file
