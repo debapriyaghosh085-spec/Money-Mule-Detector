@@ -66,6 +66,7 @@ cd money-mule-detector
 
 ```
 python main.py
+Make sure transactions.csv is in the same directory as main.py
 ```
 
 ---
