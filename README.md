@@ -123,7 +123,7 @@ A → Large transaction, Too many transactions
 
 ---
 
-## 👤 Author
+##  Author
 
 Debapriya Ghosh
 
